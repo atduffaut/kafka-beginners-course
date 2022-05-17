@@ -1,0 +1,4 @@
+# Project exclude paths
+/kafka-basics/target/
+/kafka-consumer-opensearch/target/
+/kafka-producer-wikimedia/target/
